@@ -71,7 +71,7 @@ This profile targets intense, high-energy rock songs with strong mood and rhythm
 
 Below is a sample terminal output showing the top recommendations for a default "pop/happy" profile:
 
-![Terminal Output: Top Recommendations](./terminal_output.png)
+![Terminal Output: Top Recommendations](images/Screenshot 2026-03-18 at 11.19.32 AM.png)
 
 This demonstrates how the recommender displays song titles, scores, and specific reasons for each recommendation.
 # 🎵 Music Recommender Simulation
